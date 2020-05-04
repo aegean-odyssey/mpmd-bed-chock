@@ -1,7 +1,7 @@
 # mpmd bed chock
-###### A Bed Chock for the Monoprice MP Mini Delta 3d printer
 
-A set of small chocks prevents the print bed from tilting while printing.
+A set of small chocks prevents the print bed from tilting while printing
+on the Monoprice MP Mini Delta 3d printer.
 
 ##### 3D PRINTING
 
